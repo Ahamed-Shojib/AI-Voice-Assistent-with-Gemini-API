@@ -1,0 +1,5 @@
+fastapi 
+uvicorn 
+pyaudio 
+google-generativeai 
+jinja2
